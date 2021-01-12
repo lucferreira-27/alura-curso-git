@@ -23,7 +23,7 @@ Curso da alura de git, **Git e Github: Controle e compartilhe seu código**
 
 ## help
 
-Visulização de funcionamento do git
+Visualização de funcionamento do git
 https://git-school.github.io/visualizing-git/
 
 Github markdown

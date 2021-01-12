@@ -1,5 +1,5 @@
 # alura-curso-git
-Curso da alura de git
+Curso da alura de git, **Git e Github: Controle e compartilhe seu código**
 ## Comandos
 - git init =  inicializa o repositio
 - git add (nome do arquivo)
@@ -9,9 +9,9 @@ Curso da alura de git
 - git checkout [branch] = troca de branch
 - git branch = lista as branchs
 - git merge  [branch] = realiza um merge entre branchs
--git tag -a [VERSION] = cria uma tag  com release
+- git tag -a [VERSION] = cria uma tag  com release
 - git push origin [VERSION] = envia a versão para um servidor remoto.
-## CTRL + Z
+### CTRL + Z
 
 - Para desfazer uma alteração antes de adicioná-la para commit (com git add), podemos utilizar o comando git checkout -- <arquivos>.
 
@@ -22,4 +22,9 @@ Curso da alura de git
 
 
 ## help
+
+Visulização de funcionamento do git
 https://git-school.github.io/visualizing-git/
+
+Github markdown
+https://guides.github.com/features/mastering-markdown/

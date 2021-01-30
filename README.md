@@ -29,9 +29,12 @@ https://git-school.github.io/visualizing-git/
 Github markdown
 https://guides.github.com/features/mastering-markdown/
 
-**QUICK GUIDE**
+#### **QUICK GUIDE**
+
 Git-Guide
 https://rogerdudler.github.io/git-guide/index.html
+
+
 Git-Guide (PT-BR) 
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
